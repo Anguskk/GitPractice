@@ -1,1 +1,2 @@
 Hi,this is master.txt.
+Now，do first modify.
